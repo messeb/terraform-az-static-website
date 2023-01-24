@@ -12,6 +12,7 @@ variable "location" {
 
 variable "referer_check_file_extensions" {
   type        = list(string)
+  default     = []
   description = "List of file extensions to check for referer"
 }
 

@@ -1,0 +1,12 @@
+{
+    ".js":"application/javascript",
+    ".css":"text/css",
+    ".png":"image/png",
+    ".jpg":"image/jpeg",
+    ".jpeg":"image/jpeg",
+    ".gif":"image/gif",
+    ".ico":"image/x-icon",
+    ".svg":"image/svg+xml",
+    ".json":"application/json",
+    ".html":"text/html"   
+}

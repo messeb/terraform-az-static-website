@@ -40,6 +40,11 @@ module "static_website" {
 }
 ```
 
+## Example
+
+* URL: [https://az-static-website.messeb.net](https://az-static-website.messeb.net)
+* README: [example/README.md](example/README.md)
+
 ## Resources
 
 | Name | Type |
